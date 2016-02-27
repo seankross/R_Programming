@@ -7,6 +7,9 @@
   Version: 2.2.15
 
 - Class: text
+  Output: This is a new question!
+
+- Class: text
   Output: This lesson is meant to be a short introduction to logical operations in R.
 
 - Class: text
